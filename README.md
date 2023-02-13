@@ -18,4 +18,6 @@ This project contains the implementation of the following:
 15. Finding Synonyms and Antonyms using NLTK
 16. Word Negation Tracking 
 
-* there are two presentation files in order to explain more about n-grams and LSA.
+----------------------
+
+There are two presentation files in order to explain more about n-grams and LSA.
